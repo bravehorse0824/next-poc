@@ -1,0 +1,96 @@
+{
+    "footer": {
+        "privacy": {
+            "title": "Privacy Policy",
+            "link": ""
+        },
+        "cookie": {
+            "title": "Cookie Policy",
+            "link": ""
+        },
+        "legal": {
+            "title": "Note Legali",
+            "link": ""
+        },
+        "copyright": "© 2024 Inc.",
+        "facebook": "https://facebook.com",
+        "instagram": "https://instagram.com",
+        "twitter": "https://twitter.com"
+    },
+    "login": {
+        "title": "Login",
+        "usernameHint": "Username",
+        "passwordHint": "Password",
+        "buttonContinue": "Continue",
+        "forgotPassword": "Forgot password?",
+        "notRegisteredTitle": "Not registered yet?",
+        "notRegisteredDescription": "channel programs give you access to a whole range of benefits to help you increase sales & revenue.",
+        "registerButton": "Join now!"
+    },
+    "register": {
+        "company": {
+            "title": "Company",
+            "requiredFields": "* Required fields",
+            "companyAlreadyExists": "If your company is already a partner, please switch yes to search for it",
+            "companyName": "Company name",
+            "vatCode": "VAT code",
+            "website": "Website",
+            "companyAddress": "Company address",
+            "companyCity": "City",
+            "companyZip": "ZIP",
+            "companyCountry": "Country",
+            "companyRegion": "Region",
+            "companyProvince": "Province",
+            "buttonContinue": "Continue",
+            "invalidVAT": "Invalid VAT code. must be 11 characters long"
+        },
+        "contact": {
+            "title": "Contact",
+            "requiredFields": "* Required fields",
+            "username": "Username",
+            "password": "Password",
+            "firstName": "First name",
+            "lastName": "Last name",
+            "mobilePhone": "Mobile phone",
+            "email": "Email",
+            "country": "Country",
+            "role": "Role in the company",
+            "buttonContinue": "Continue"
+        },
+        "confirm": {
+            "title": "Confirm",
+            "description": "Verify that all the informations typed in the previous steps are correct and complete the registration.",
+            "companySummary": "Company summary",
+            "companyName": "Company name",
+            "address": "Address",
+            "vatCode": "VAT code",
+            "website": "Website",
+            "contactSummary": "Contact summary",
+            "firstAndLastName": "First and last name",
+            "role": "Role in the company",
+            "mobilePhone": "Mobile phone",
+            "email": "Email",
+            "country": "Country",
+            "privacyPolicyCheck": "I have read and accept the Privacy Policy",
+            "buttonBack": "Back",
+            "buttonConfirm": "Join"
+        }
+    },
+    "confirm": {
+        "title": "Congratulations!",
+        "description": "You've finished registration and you are about to enjoy the journey",
+        "content-title": "What's next",
+        "items": [
+            {
+                "title": "Check you email",
+                "description": "You'll get an email to confirm your registration address"
+            },
+            {
+                "title": "Wait for approval",
+                "description": "You'll get an approval email  with a link to access the portal"
+            }
+        ],
+        "button-1": "Go to website.com",
+        "button-2": "Contact us"
+    }
+}

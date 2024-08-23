@@ -1,0 +1,885 @@
+{
+  "id": 1,
+  "attributes": {
+    "Title": "Ultraslim PCs",
+    "Subtitle": "Run business with style",
+    "url": "ultraslimpc",
+    "Description": null,
+    "createdAt": "2024-07-03T07:38:48.733Z",
+    "updatedAt": "2024-07-03T08:09:49.350Z",
+    "publishedAt": "2024-07-03T07:48:14.712Z",
+    "locale": "en",
+    "FeaturedImage": {
+      "data": {
+        "id": 2,
+        "attributes": {
+          "name": "hero_ultraslim_pc.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1920,
+          "height": 890,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/large_hero_ultraslim_pc_42b7add580.jpg",
+              "hash": "large_hero_ultraslim_pc_42b7add580",
+              "mime": "image/jpeg",
+              "name": "large_hero_ultraslim_pc.jpg",
+              "path": null,
+              "size": 59.08,
+              "width": 1000,
+              "height": 464,
+              "sizeInBytes": 59082
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/small_hero_ultraslim_pc_42b7add580.jpg",
+              "hash": "small_hero_ultraslim_pc_42b7add580",
+              "mime": "image/jpeg",
+              "name": "small_hero_ultraslim_pc.jpg",
+              "path": null,
+              "size": 21.68,
+              "width": 500,
+              "height": 232,
+              "sizeInBytes": 21676
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/medium_hero_ultraslim_pc_42b7add580.jpg",
+              "hash": "medium_hero_ultraslim_pc_42b7add580",
+              "mime": "image/jpeg",
+              "name": "medium_hero_ultraslim_pc.jpg",
+              "path": null,
+              "size": 39.24,
+              "width": 750,
+              "height": 348,
+              "sizeInBytes": 39245
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/thumbnail_hero_ultraslim_pc_42b7add580.jpg",
+              "hash": "thumbnail_hero_ultraslim_pc_42b7add580",
+              "mime": "image/jpeg",
+              "name": "thumbnail_hero_ultraslim_pc.jpg",
+              "path": null,
+              "size": 7.61,
+              "width": 245,
+              "height": 113,
+              "sizeInBytes": 7609
+            }
+          },
+          "hash": "hero_ultraslim_pc_42b7add580",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 156.13,
+          "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/hero_ultraslim_pc_42b7add580.jpg",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2024-07-03T07:30:56.232Z",
+          "updatedAt": "2024-07-03T07:30:56.232Z"
+        }
+      }
+    },
+    "SEO": null,
+    "Content": [
+      {
+        "id": 1,
+        "__component": "blocks.spill-block",
+        "Title": "Trendsetter",
+        "Content": "Swift are ultra-thin and stylish notebooks wrapped in a metal chassis with a minimalist design and trendy colours, to be carried with pride everywhere",
+        "Side": "Left",
+        "typeId": 5,
+        "Image": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "img_box1_ultraslim.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 960,
+              "height": 600,
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/small_img_box1_ultraslim_03f1239d15.png",
+                  "hash": "small_img_box1_ultraslim_03f1239d15",
+                  "mime": "image/png",
+                  "name": "small_img_box1_ultraslim.png",
+                  "path": null,
+                  "size": 197.36,
+                  "width": 500,
+                  "height": 313,
+                  "sizeInBytes": 197357
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/medium_img_box1_ultraslim_03f1239d15.png",
+                  "hash": "medium_img_box1_ultraslim_03f1239d15",
+                  "mime": "image/png",
+                  "name": "medium_img_box1_ultraslim.png",
+                  "path": null,
+                  "size": 418.55,
+                  "width": 750,
+                  "height": 469,
+                  "sizeInBytes": 418554
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/thumbnail_img_box1_ultraslim_03f1239d15.png",
+                  "hash": "thumbnail_img_box1_ultraslim_03f1239d15",
+                  "mime": "image/png",
+                  "name": "thumbnail_img_box1_ultraslim.png",
+                  "path": null,
+                  "size": 54.31,
+                  "width": 245,
+                  "height": 153,
+                  "sizeInBytes": 54306
+                }
+              },
+              "hash": "img_box1_ultraslim_03f1239d15",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 129.05,
+              "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/img_box1_ultraslim_03f1239d15.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2024-07-03T07:34:05.508Z",
+              "updatedAt": "2024-07-03T07:34:05.508Z"
+            }
+          }
+        }
+      },
+      {
+        "id": 1,
+        "__component": "blocks.spill-photo",
+        "typeId": 6,
+        "top": true,
+        "Photo": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "banner_ultraslim_feature.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1920,
+              "height": 780,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/large_banner_ultraslim_feature_0982e1b451.jpg",
+                  "hash": "large_banner_ultraslim_feature_0982e1b451",
+                  "mime": "image/jpeg",
+                  "name": "large_banner_ultraslim_feature.jpg",
+                  "path": null,
+                  "size": 22.58,
+                  "width": 1000,
+                  "height": 406,
+                  "sizeInBytes": 22577
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/small_banner_ultraslim_feature_0982e1b451.jpg",
+                  "hash": "small_banner_ultraslim_feature_0982e1b451",
+                  "mime": "image/jpeg",
+                  "name": "small_banner_ultraslim_feature.jpg",
+                  "path": null,
+                  "size": 8.05,
+                  "width": 500,
+                  "height": 203,
+                  "sizeInBytes": 8054
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/medium_banner_ultraslim_feature_0982e1b451.jpg",
+                  "hash": "medium_banner_ultraslim_feature_0982e1b451",
+                  "mime": "image/jpeg",
+                  "name": "medium_banner_ultraslim_feature.jpg",
+                  "path": null,
+                  "size": 14.55,
+                  "width": 750,
+                  "height": 305,
+                  "sizeInBytes": 14550
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/thumbnail_banner_ultraslim_feature_0982e1b451.jpg",
+                  "hash": "thumbnail_banner_ultraslim_feature_0982e1b451",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_banner_ultraslim_feature.jpg",
+                  "path": null,
+                  "size": 3.33,
+                  "width": 245,
+                  "height": 100,
+                  "sizeInBytes": 3330
+                }
+              },
+              "hash": "banner_ultraslim_feature_0982e1b451",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 54.95,
+              "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/banner_ultraslim_feature_0982e1b451.jpg",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2024-07-03T07:35:42.395Z",
+              "updatedAt": "2024-07-03T07:35:42.395Z"
+            }
+          }
+        },
+        "Contet": [
+          {
+            "id": 1,
+            "Title1": "Slim yet robust",
+            "Description": "Sed quid sentiat, non videtis. Beatus sibi videtur esse moriens. Ad eas enim res ab Epicuro praecepta dantur. An tu me de L. Sed ego in hoc resisto; Egone quaeris, inquit, quid sentiam? Quo tandem modo?"
+          },
+          {
+            "id": 2,
+            "Title1": "Power on",
+            "Description": "Sed quid sentiat, non videtis. Beatus sibi videtur esse moriens. Ad eas enim res ab Epicuro praecepta dantur. An tu me de L. Sed ego in hoc resisto; Egone quaeris, inquit, quid sentiam? Quo tandem modo?"
+          },
+          {
+            "id": 3,
+            "Title1": "5G connectivity",
+            "Description": "Sed quid sentiat, non videtis. Beatus sibi videtur esse moriens. Ad eas enim res ab Epicuro praecepta dantur. An tu me de L. Sed ego in hoc resisto; Egone quaeris, inquit, quid sentiam? Quo tandem modo?"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "__component": "blocks.product-lists",
+        "Title": "Ultraslim PC",
+        "SubTitle": "discover our bueiness solutions",
+        "typeId": 4,
+        "Products": [
+          {
+            "id": 2,
+            "Title": "Spin 3",
+            "Photo": {
+              "data": {
+                "id": 5,
+                "attributes": {
+                  "name": "prod_ultraslim_spin3.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 380,
+                  "height": 340,
+                  "formats": {
+                    "thumbnail": {
+                      "ext": ".png",
+                      "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/thumbnail_prod_ultraslim_spin3_f335326892.png",
+                      "hash": "thumbnail_prod_ultraslim_spin3_f335326892",
+                      "mime": "image/png",
+                      "name": "thumbnail_prod_ultraslim_spin3.png",
+                      "path": null,
+                      "size": 18.54,
+                      "width": 174,
+                      "height": 156,
+                      "sizeInBytes": 18537
+                    }
+                  },
+                  "hash": "prod_ultraslim_spin3_f335326892",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 17.99,
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/prod_ultraslim_spin3_f335326892.png",
+                  "previewUrl": null,
+                  "provider": "strapi-provider-upload-strapi-cloud",
+                  "provider_metadata": null,
+                  "createdAt": "2024-07-03T07:37:36.475Z",
+                  "updatedAt": "2024-07-03T07:37:36.475Z"
+                }
+              }
+            }
+          },
+          {
+            "id": 4,
+            "Title": "Spin 5",
+            "Photo": {
+              "data": {
+                "id": 9,
+                "attributes": {
+                  "name": "prod_ultraslim_spin5.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 380,
+                  "height": 340,
+                  "formats": {
+                    "thumbnail": {
+                      "ext": ".png",
+                      "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/thumbnail_prod_ultraslim_spin5_1a4d964783.png",
+                      "hash": "thumbnail_prod_ultraslim_spin5_1a4d964783",
+                      "mime": "image/png",
+                      "name": "thumbnail_prod_ultraslim_spin5.png",
+                      "path": null,
+                      "size": 36.21,
+                      "width": 174,
+                      "height": 156,
+                      "sizeInBytes": 36209
+                    }
+                  },
+                  "hash": "prod_ultraslim_spin5_1a4d964783",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 33.14,
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/prod_ultraslim_spin5_1a4d964783.png",
+                  "previewUrl": null,
+                  "provider": "strapi-provider-upload-strapi-cloud",
+                  "provider_metadata": null,
+                  "createdAt": "2024-07-03T07:37:38.160Z",
+                  "updatedAt": "2024-07-03T07:37:51.350Z"
+                }
+              }
+            }
+          },
+          {
+            "id": 5,
+            "Title": "Swift 3",
+            "Photo": {
+              "data": {
+                "id": 7,
+                "attributes": {
+                  "name": "prod_ultraslim_swift3.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 380,
+                  "height": 340,
+                  "formats": {
+                    "thumbnail": {
+                      "ext": ".png",
+                      "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/thumbnail_prod_ultraslim_swift3_7056211aa6.png",
+                      "hash": "thumbnail_prod_ultraslim_swift3_7056211aa6",
+                      "mime": "image/png",
+                      "name": "thumbnail_prod_ultraslim_swift3.png",
+                      "path": null,
+                      "size": 37.26,
+                      "width": 174,
+                      "height": 156,
+                      "sizeInBytes": 37263
+                    }
+                  },
+                  "hash": "prod_ultraslim_swift3_7056211aa6",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 32.77,
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/prod_ultraslim_swift3_7056211aa6.png",
+                  "previewUrl": null,
+                  "provider": "strapi-provider-upload-strapi-cloud",
+                  "provider_metadata": null,
+                  "createdAt": "2024-07-03T07:37:37.609Z",
+                  "updatedAt": "2024-07-03T07:37:37.609Z"
+                }
+              }
+            }
+          },
+          {
+            "id": 3,
+            "Title": "Swift 3X",
+            "Photo": {
+              "data": {
+                "id": 6,
+                "attributes": {
+                  "name": "prod_ultraslim_swift3x.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 380,
+                  "height": 340,
+                  "formats": {
+                    "thumbnail": {
+                      "ext": ".png",
+                      "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/thumbnail_prod_ultraslim_swift3x_2026a9f770.png",
+                      "hash": "thumbnail_prod_ultraslim_swift3x_2026a9f770",
+                      "mime": "image/png",
+                      "name": "thumbnail_prod_ultraslim_swift3x.png",
+                      "path": null,
+                      "size": 24.51,
+                      "width": 174,
+                      "height": 156,
+                      "sizeInBytes": 24511
+                    }
+                  },
+                  "hash": "prod_ultraslim_swift3x_2026a9f770",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 21.3,
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/prod_ultraslim_swift3x_2026a9f770.png",
+                  "previewUrl": null,
+                  "provider": "strapi-provider-upload-strapi-cloud",
+                  "provider_metadata": null,
+                  "createdAt": "2024-07-03T07:37:37.365Z",
+                  "updatedAt": "2024-07-03T07:37:37.365Z"
+                }
+              }
+            }
+          },
+          {
+            "id": 6,
+            "Title": "Swift 5",
+            "Photo": {
+              "data": {
+                "id": 8,
+                "attributes": {
+                  "name": "prod_ultraslim_swift5.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 380,
+                  "height": 340,
+                  "formats": {
+                    "thumbnail": {
+                      "ext": ".png",
+                      "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/thumbnail_prod_ultraslim_swift5_b4c8e1f8a9.png",
+                      "hash": "thumbnail_prod_ultraslim_swift5_b4c8e1f8a9",
+                      "mime": "image/png",
+                      "name": "thumbnail_prod_ultraslim_swift5.png",
+                      "path": null,
+                      "size": 27.04,
+                      "width": 174,
+                      "height": 156,
+                      "sizeInBytes": 27037
+                    }
+                  },
+                  "hash": "prod_ultraslim_swift5_b4c8e1f8a9",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 32.12,
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/prod_ultraslim_swift5_b4c8e1f8a9.png",
+                  "previewUrl": null,
+                  "provider": "strapi-provider-upload-strapi-cloud",
+                  "provider_metadata": null,
+                  "createdAt": "2024-07-03T07:37:37.945Z",
+                  "updatedAt": "2024-07-03T07:37:37.945Z"
+                }
+              }
+            }
+          },
+          {
+            "id": 7,
+            "Title": "Swift X",
+            "Photo": {
+              "data": {
+                "id": 10,
+                "attributes": {
+                  "name": "prod_ultraslim_swiftx.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 380,
+                  "height": 340,
+                  "formats": {
+                    "thumbnail": {
+                      "ext": ".png",
+                      "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/thumbnail_prod_ultraslim_swiftx_9616209180.png",
+                      "hash": "thumbnail_prod_ultraslim_swiftx_9616209180",
+                      "mime": "image/png",
+                      "name": "thumbnail_prod_ultraslim_swiftx.png",
+                      "path": null,
+                      "size": 23.57,
+                      "width": 174,
+                      "height": 156,
+                      "sizeInBytes": 23571
+                    }
+                  },
+                  "hash": "prod_ultraslim_swiftx_9616209180",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 25.62,
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/prod_ultraslim_swiftx_9616209180.png",
+                  "previewUrl": null,
+                  "provider": "strapi-provider-upload-strapi-cloud",
+                  "provider_metadata": null,
+                  "createdAt": "2024-07-03T07:37:38.191Z",
+                  "updatedAt": "2024-07-03T07:37:38.191Z"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "__component": "blocks.video-link",
+        "Title": "Tireless workmate",
+        "LinkLabel": "watch the video",
+        "Link": "https://google.com",
+        "typeId": 7,
+        "Background": {
+          "data": {
+            "id": 11,
+            "attributes": {
+              "name": "cover_video_ultraslim.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1920,
+              "height": 651,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/large_cover_video_ultraslim_07bf63f2f7.jpg",
+                  "hash": "large_cover_video_ultraslim_07bf63f2f7",
+                  "mime": "image/jpeg",
+                  "name": "large_cover_video_ultraslim.jpg",
+                  "path": null,
+                  "size": 55.35,
+                  "width": 1000,
+                  "height": 339,
+                  "sizeInBytes": 55348
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/small_cover_video_ultraslim_07bf63f2f7.jpg",
+                  "hash": "small_cover_video_ultraslim_07bf63f2f7",
+                  "mime": "image/jpeg",
+                  "name": "small_cover_video_ultraslim.jpg",
+                  "path": null,
+                  "size": 15.42,
+                  "width": 500,
+                  "height": 169,
+                  "sizeInBytes": 15417
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/medium_cover_video_ultraslim_07bf63f2f7.jpg",
+                  "hash": "medium_cover_video_ultraslim_07bf63f2f7",
+                  "mime": "image/jpeg",
+                  "name": "medium_cover_video_ultraslim.jpg",
+                  "path": null,
+                  "size": 31.44,
+                  "width": 750,
+                  "height": 254,
+                  "sizeInBytes": 31436
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/thumbnail_cover_video_ultraslim_07bf63f2f7.jpg",
+                  "hash": "thumbnail_cover_video_ultraslim_07bf63f2f7",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_cover_video_ultraslim.jpg",
+                  "path": null,
+                  "size": 5.27,
+                  "width": 245,
+                  "height": 83,
+                  "sizeInBytes": 5270
+                }
+              },
+              "hash": "cover_video_ultraslim_07bf63f2f7",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 157.12,
+              "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/cover_video_ultraslim_07bf63f2f7.jpg",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2024-07-03T07:39:17.308Z",
+              "updatedAt": "2024-07-03T07:39:17.308Z"
+            }
+          }
+        }
+      },
+      {
+        "id": 1,
+        "__component": "blocks.block3-col",
+        "Title": "Clear productivity",
+        "Subtitle": "Features designed for your business",
+        "typeId": 1,
+        "Element": [
+          {
+            "id": 1,
+            "Title": "Four modes",
+            "Description": "Sed quid sentiat, non videtis. Beatus sibi videtur esse moriens. Ad eas enim res ab Epicuro praecepta dantur. An tu me de L. Sed ego in hoc resisto; Egone quaeris, inquit, quid sentiam? Quo tandem modo?",
+            "Side": "Right",
+            "Photo": {
+              "data": {
+                "id": 12,
+                "attributes": {
+                  "name": "box_ultraslim_1.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 420,
+                  "height": 420,
+                  "formats": {
+                    "thumbnail": {
+                      "ext": ".jpg",
+                      "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/thumbnail_box_ultraslim_1_efde39ced8.jpg",
+                      "hash": "thumbnail_box_ultraslim_1_efde39ced8",
+                      "mime": "image/jpeg",
+                      "name": "thumbnail_box_ultraslim_1.jpg",
+                      "path": null,
+                      "size": 5.32,
+                      "width": 156,
+                      "height": 156,
+                      "sizeInBytes": 5319
+                    }
+                  },
+                  "hash": "box_ultraslim_1_efde39ced8",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 23.18,
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/box_ultraslim_1_efde39ced8.jpg",
+                  "previewUrl": null,
+                  "provider": "strapi-provider-upload-strapi-cloud",
+                  "provider_metadata": null,
+                  "createdAt": "2024-07-03T07:41:34.501Z",
+                  "updatedAt": "2024-07-03T07:41:34.501Z"
+                }
+              }
+            }
+          },
+          {
+            "id": 2,
+            "Title": "Active Stylus pen",
+            "Description": "Sed quid sentiat, non videtis. Beatus sibi videtur esse moriens. Ad eas enim res ab Epicuro praecepta dantur. An tu me de L. Sed ego in hoc resisto; Egone quaeris, inquit, quid sentiam? Quo tandem modo?",
+            "Side": "Right",
+            "Photo": {
+              "data": {
+                "id": 13,
+                "attributes": {
+                  "name": "box_ultraslim_2.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 420,
+                  "height": 420,
+                  "formats": {
+                    "thumbnail": {
+                      "ext": ".jpg",
+                      "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/thumbnail_box_ultraslim_2_5169033c5d.jpg",
+                      "hash": "thumbnail_box_ultraslim_2_5169033c5d",
+                      "mime": "image/jpeg",
+                      "name": "thumbnail_box_ultraslim_2.jpg",
+                      "path": null,
+                      "size": 6.86,
+                      "width": 156,
+                      "height": 156,
+                      "sizeInBytes": 6859
+                    }
+                  },
+                  "hash": "box_ultraslim_2_5169033c5d",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 32.63,
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/box_ultraslim_2_5169033c5d.jpg",
+                  "previewUrl": null,
+                  "provider": "strapi-provider-upload-strapi-cloud",
+                  "provider_metadata": null,
+                  "createdAt": "2024-07-03T07:42:36.120Z",
+                  "updatedAt": "2024-07-03T07:42:48.532Z"
+                }
+              }
+            }
+          },
+          {
+            "id": 3,
+            "Title": "From 13 to 16-inch",
+            "Description": "Sed quid sentiat, non videtis. Beatus sibi videtur esse moriens. Ad eas enim res ab Epicuro praecepta dantur. An tu me de L. Sed ego in hoc resisto; Egone quaeris, inquit, quid sentiam? Quo tandem modo?",
+            "Side": "Left",
+            "Photo": {
+              "data": {
+                "id": 14,
+                "attributes": {
+                  "name": "box_ultraslim_3.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 420,
+                  "height": 420,
+                  "formats": {
+                    "thumbnail": {
+                      "ext": ".jpg",
+                      "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/thumbnail_box_ultraslim_3_091ec7db4d.jpg",
+                      "hash": "thumbnail_box_ultraslim_3_091ec7db4d",
+                      "mime": "image/jpeg",
+                      "name": "thumbnail_box_ultraslim_3.jpg",
+                      "path": null,
+                      "size": 7.03,
+                      "width": 156,
+                      "height": 156,
+                      "sizeInBytes": 7026
+                    }
+                  },
+                  "hash": "box_ultraslim_3_091ec7db4d",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 31.54,
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/box_ultraslim_3_091ec7db4d.jpg",
+                  "previewUrl": null,
+                  "provider": "strapi-provider-upload-strapi-cloud",
+                  "provider_metadata": null,
+                  "createdAt": "2024-07-03T07:43:18.899Z",
+                  "updatedAt": "2024-07-03T07:43:18.899Z"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "__component": "blocks.icon-background",
+        "Title": "Ready to purchase",
+        "SubTitle": "Acer offers multiple payment options to their end users. Select the one that best fits your need",
+        "typeId": 2,
+        "Background": {
+          "data": [
+            {
+              "id": 18,
+              "attributes": {
+                "name": "banner_bottom_ultraslim.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1920,
+                "height": 720,
+                "formats": {
+                  "large": {
+                    "ext": ".jpg",
+                    "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/large_banner_bottom_ultraslim_7583c8d28d.jpg",
+                    "hash": "large_banner_bottom_ultraslim_7583c8d28d",
+                    "mime": "image/jpeg",
+                    "name": "large_banner_bottom_ultraslim.jpg",
+                    "path": null,
+                    "size": 59.73,
+                    "width": 1000,
+                    "height": 375,
+                    "sizeInBytes": 59734
+                  },
+                  "small": {
+                    "ext": ".jpg",
+                    "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/small_banner_bottom_ultraslim_7583c8d28d.jpg",
+                    "hash": "small_banner_bottom_ultraslim_7583c8d28d",
+                    "mime": "image/jpeg",
+                    "name": "small_banner_bottom_ultraslim.jpg",
+                    "path": null,
+                    "size": 20.1,
+                    "width": 500,
+                    "height": 188,
+                    "sizeInBytes": 20101
+                  },
+                  "medium": {
+                    "ext": ".jpg",
+                    "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/medium_banner_bottom_ultraslim_7583c8d28d.jpg",
+                    "hash": "medium_banner_bottom_ultraslim_7583c8d28d",
+                    "mime": "image/jpeg",
+                    "name": "medium_banner_bottom_ultraslim.jpg",
+                    "path": null,
+                    "size": 37.94,
+                    "width": 750,
+                    "height": 281,
+                    "sizeInBytes": 37944
+                  },
+                  "thumbnail": {
+                    "ext": ".jpg",
+                    "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/thumbnail_banner_bottom_ultraslim_7583c8d28d.jpg",
+                    "hash": "thumbnail_banner_bottom_ultraslim_7583c8d28d",
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_banner_bottom_ultraslim.jpg",
+                    "path": null,
+                    "size": 6.81,
+                    "width": 245,
+                    "height": 92,
+                    "sizeInBytes": 6809
+                  }
+                },
+                "hash": "banner_bottom_ultraslim_7583c8d28d",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 158.78,
+                "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/banner_bottom_ultraslim_7583c8d28d.jpg",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2024-07-03T08:09:20.452Z",
+                "updatedAt": "2024-07-03T08:09:20.452Z"
+              }
+            }
+          ]
+        },
+        "IconsLinks": [
+          {
+            "id": 1,
+            "LinkLabel": "Find reseller",
+            "Link": "https://google.com",
+            "Icon": {
+              "data": {
+                "id": 15,
+                "attributes": {
+                  "name": "icon_ultraslim_search.svg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 800,
+                  "height": 800,
+                  "formats": null,
+                  "hash": "icon_ultraslim_search_9e46434e88",
+                  "ext": ".svg",
+                  "mime": "image/svg+xml",
+                  "size": 0.76,
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/icon_ultraslim_search_9e46434e88.svg",
+                  "previewUrl": null,
+                  "provider": "strapi-provider-upload-strapi-cloud",
+                  "provider_metadata": null,
+                  "createdAt": "2024-07-03T07:44:37.560Z",
+                  "updatedAt": "2024-07-03T07:44:37.560Z"
+                }
+              }
+            }
+          },
+          {
+            "id": 2,
+            "LinkLabel": "Buy now",
+            "Link": "https://google.com",
+            "Icon": {
+              "data": {
+                "id": 16,
+                "attributes": {
+                  "name": "icon_ultraslim_bag.svg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 800,
+                  "height": 800,
+                  "formats": null,
+                  "hash": "icon_ultraslim_bag_b0e18b8583",
+                  "ext": ".svg",
+                  "mime": "image/svg+xml",
+                  "size": 1.16,
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/icon_ultraslim_bag_b0e18b8583.svg",
+                  "previewUrl": null,
+                  "provider": "strapi-provider-upload-strapi-cloud",
+                  "provider_metadata": null,
+                  "createdAt": "2024-07-03T07:45:44.722Z",
+                  "updatedAt": "2024-07-03T07:45:44.722Z"
+                }
+              }
+            }
+          },
+          {
+            "id": 3,
+            "LinkLabel": "Rent it",
+            "Link": "https://google.com",
+            "Icon": {
+              "data": {
+                "id": 17,
+                "attributes": {
+                  "name": "icon_ultraslim_laptop.svg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 800,
+                  "height": 800,
+                  "formats": null,
+                  "hash": "icon_ultraslim_laptop_e9c48bcaca",
+                  "ext": ".svg",
+                  "mime": "image/svg+xml",
+                  "size": 2.19,
+                  "url": "https://ingenious-cat-c69f722d9d.media.strapiapp.com/icon_ultraslim_laptop_e9c48bcaca.svg",
+                  "previewUrl": null,
+                  "provider": "strapi-provider-upload-strapi-cloud",
+                  "provider_metadata": null,
+                  "createdAt": "2024-07-03T07:45:44.775Z",
+                  "updatedAt": "2024-07-03T07:45:44.775Z"
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "localizations": {
+      "data": []
+    }
+  }
+}
